@@ -21,6 +21,7 @@ The goal of this project is to design data models and a core database for a Euro
 * [Customer Data](https://github.com/phelpsbp/Data-Warehousing-with-Oracle/blob/main/customer.csv)
 * [Reservation Data](https://github.com/phelpsbp/Data-Warehousing-with-Oracle/blob/main/reservation.csv)
 * [Geographical Data](https://github.com/phelpsbp/Data-Warehousing-with-Oracle/blob/main/location.csv)
+* [EER](https://github.com/phelpsbp/Data-Warehousing-with-Oracle/blob/main/eurorbit.mwb)
 
 ### Tools
 
