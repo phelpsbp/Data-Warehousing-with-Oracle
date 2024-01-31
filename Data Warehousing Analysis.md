@@ -1,5 +1,5 @@
 # Data Warehousing with Oracle: Designing a Database
-Business Operational Intelligence Analysis: Building a data warehouse using Oracle's MySQL Workbench to integrate different data sources through ETL and provide necessary business intelligence to gain operational advantage. 
+Business Operational Intelligence Analysis: Building a data warehouse using Oracle's MySQL Workbench to integrate different data sources through ETL and provide necessary business intelligence through visualizations with Tableau to gain operational advantage. 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
